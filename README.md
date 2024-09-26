@@ -1,2 +1,2 @@
-# InRealLifePodacstWebsite
-Website for In Real life Podcast
+# InRealLifePodcastWebsite
+Website for In Real Life Podcast
